@@ -153,7 +153,7 @@
             // arunBetLabel
             // 
             this.arunBetLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.arunBetLabel.Font = new System.Drawing.Font("Microsoft YaHei", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.arunBetLabel.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.arunBetLabel.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.arunBetLabel.Location = new System.Drawing.Point(218, 85);
             this.arunBetLabel.Name = "arunBetLabel";
@@ -164,7 +164,7 @@
             // samBetLabel
             // 
             this.samBetLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.samBetLabel.Font = new System.Drawing.Font("Microsoft YaHei", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.samBetLabel.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.samBetLabel.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.samBetLabel.Location = new System.Drawing.Point(218, 61);
             this.samBetLabel.Name = "samBetLabel";
@@ -175,7 +175,7 @@
             // lakshayBetLabel
             // 
             this.lakshayBetLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.lakshayBetLabel.Font = new System.Drawing.Font("Microsoft YaHei", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lakshayBetLabel.Font = new System.Drawing.Font("Microsoft YaHei", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lakshayBetLabel.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.lakshayBetLabel.Location = new System.Drawing.Point(218, 38);
             this.lakshayBetLabel.Name = "lakshayBetLabel";
